@@ -10,7 +10,7 @@
 !!! To work you need to install sfml !!!
 
 ~~~
-git clone https://github.com/Night3098/SnowyScreensaver
+git clone https://github.com/night3098/SnowyScreensaver
 cd SnowyScreensaver
 g++ SnowyScreensaver.cpp -o screensaver -lsfml-graphics -lsfml-window -lsfml-system
 ./screensaver
